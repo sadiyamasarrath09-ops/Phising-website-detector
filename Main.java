@@ -20,11 +20,12 @@ public static void main(String args[]){
         }
         
         if(count>=2){
-            System.out.print("YES IT IS A PHISING WEBSITE");
+            System.out.print("YES IT IS A PHISING WEBSITE!!!");
         }
         else{
-            System.out.println("NO its not a phising website");
+            System.out.println("NO IT'S NOT A PHISING WEBSITE");
         }
         
 }
 }
+
